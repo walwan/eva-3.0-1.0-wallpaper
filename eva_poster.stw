@@ -1,0 +1,7 @@
+stw: 1.0
+name: eva_3.0+1.0_poster
+format: /usr/share/backgrounds/eva_poster/%s.png
+@00:00: 3
+@06:00: 1
+@10:00: 2
+@18:00: 3
